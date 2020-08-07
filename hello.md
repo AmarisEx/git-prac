@@ -5,7 +5,8 @@ fjjfj
 new balance
 changetest
 <<<<<<< Updated upstream
-woowowow
+woowowowi
 =======
 oooooo
 >>>>>>> Stashed changes
+test 2
